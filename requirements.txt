@@ -5,3 +5,5 @@ parameterized
 Pillow
 streamlit
 ultralytics
+pip install opencv-python-headless==4.8.0.74
+
